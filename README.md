@@ -25,15 +25,15 @@ Compiled and tested on Ubuntu 20.04 LTS (64bit) with Qt5.
 
 To run the code, at first we need to install the prerequisites:-
 
-*a->  g++ :
+* a->  g++ :
 
 - $ sudo apt-get install g++ -y 
 
-*b->  make :
+* b->  make :
 
 - $ sudo apt-get install make -y 
 
-*c-> qt5 :
+* c-> qt5 :
 
 - $ sudo apt-get install qt5-default
 
@@ -55,12 +55,12 @@ Now, we can run the Textop file as:-
 
 # What has been done?
 
-i. General - basic text-editor functionalities like cut, copy, paste, new file, open, save, exit etc.
+1. General - basic text-editor functionalities like cut, copy, paste, new file, open, save, exit etc.
 have been developed along with a logo/icon for the application.
-ii. Specific - 
-	a. Bold/unbold feature has been added
-	b. Subscript and superscript of selected text has been implemented
-	c. About me option and push button - that shows my resume.
+2. Specific - 
+	- a. Bold/unbold feature has been added
+	- b. Subscript and superscript of selected text has been implemented
+	- c. About me option and push button - that shows my resume.
 
 
 # Issues/challenges
