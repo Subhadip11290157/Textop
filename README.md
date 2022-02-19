@@ -80,3 +80,11 @@ content is extended, the later portions would not be shown.
 1.  https://www.youtube.com/watch?v=x858_WCtl_Y
 2. https://www.youtube.com/watch?v=I96uPDifZ1w
 3. https://github.com/rohitsaluja22/OpenOCRCorrect
+
+![image](https://user-images.githubusercontent.com/64594310/154801512-601cbcdf-0e99-4111-941c-e906a46e4e01.png)
+![image](https://user-images.githubusercontent.com/64594310/154801561-71685bc3-ba3d-475b-a6a4-1e31cdc8d20f.png)
+![image](https://user-images.githubusercontent.com/64594310/154801576-0b93c313-a8a5-4d43-8f07-83ee5455cc31.png)
+![image](https://user-images.githubusercontent.com/64594310/154801653-237eebdb-1271-40a8-959e-2f69d5f9157b.png)
+![image](https://user-images.githubusercontent.com/64594310/154801723-5bdfc41b-c0a9-4f01-906d-9645870831e2.png)
+![image](https://user-images.githubusercontent.com/64594310/154801708-22483a5c-0a11-4e4c-aa25-1b3ca9e72c56.png)
+
