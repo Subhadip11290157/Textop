@@ -25,15 +25,15 @@ Compiled and tested on Ubuntu 20.04 LTS (64bit) with Qt5.
 
 To run the code, at first we need to install the prerequisites:-
 
-* a->  g++ :
+a->  g++ :
 
 - $ sudo apt-get install g++ -y 
 
-* b->  make :
+b->  make :
 
 - $ sudo apt-get install make -y 
 
-* c-> qt5 :
+c-> qt5 :
 
 - $ sudo apt-get install qt5-default
 
